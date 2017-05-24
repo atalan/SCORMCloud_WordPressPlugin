@@ -1,0 +1,691 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: scormcloud_settings.php:112
+msgid " Share courses among all sites."
+msgstr " Partager des modules sur tous les sites."
+
+#. Text in echo
+#: scormcloud_settings.php:103
+msgid " ex: MYAYX1KB3G"
+msgstr " ex: MYAYX1KB3G"
+
+#. Text in echo
+#: scormcloud_settings.php:105
+msgid " ex: fJ4Q2HwEZbhRLeftHLv0SjzIVpJLXRiyfyOiWBo0"
+msgstr " ex: fJ4Q2HwEZbhRLeftHLv0SjzIVpJLXRiyfyOiWBo0"
+
+#. Text in echo
+#: scormcloud_settings.php:109
+msgid " ex: http://cloud.scorm.com/sc/css/cloudPlayer/cloudstyles.css"
+msgstr " ex: http://cloud.scorm.com/sc/css/cloudPlayer/cloudstyles.css"
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "About SCORM Cloud"
+msgstr "À propos de SCORM Cloud"
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "Active"
+msgstr "Actif"
+
+#. Text in echo
+#: embedTraining.php:25
+msgid "Add training to your post"
+msgstr "Ajouter une formation à votre article"
+
+#. Text in echo
+#: scormcloud_manage_courses.php:39
+msgid "All Courses"
+msgstr "Tous les modules"
+
+#. Text in echo
+#: scormcloud_manage_training.php:63
+msgid "All Users"
+msgstr "Tous les utilisateurs"
+
+#. Text in echo
+#: scormcloud_settings.php:102
+msgid "App ID: "
+msgstr "App ID: "
+
+#. Text in function
+#: scormcloud.catalogwidget.php:1
+msgid "By registering or logging in, your results will be associated with your user identity and you will be able to see your training results in this widget."
+msgstr "En s'enregistrant ou en vous connectant, vos résultats seront associés à votre identité et vous pourrez consulter les résultats de votre formation sur ce widget."
+
+#. Text in echo
+#: embedTraining.php:56
+#: embedTraining.php:75
+msgid "Click 'Start Training' to take your training."
+msgstr "Cliquez sur 'Lancer la formation' pour la démarrer."
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "Click Here to go to the settings page to configure the SCORM Cloud wordpress Plugin."
+msgstr "Cliquez-ici pour vous rendre sur la page des réglages et configurer le plugin Wordpress SCORM Cloud."
+
+#. Text in function
+#: embedTraining.php:167
+#: scormcloud_manage_courses.php:94
+#: scormcloud_manage_training.php:217
+#: scormcloud_training_details.php:337
+msgid "Click Here to go to the settings page."
+msgstr "Cliquez-ici pour vous rendre sur la page des réglages."
+
+#. Text in function
+#: scormcloud.widget.php:1
+#: scormcloud.catalogwidget.php:1
+msgid "Click course title to launch."
+msgstr "Cliquez sur le titre du module pour le lancer."
+
+#. Text in function
+#: embedTraining.php:167
+#: scormcloud_manage_courses.php:94
+#: scormcloud_startpage.php:1
+#: scormcloud_manage_training.php:217
+#: scormcloud_training_details.php:337
+msgid "Click here to configure your SCORM Cloud plugin."
+msgstr "Cliquez-ici pour configurer votre plugin SCORM Cloud."
+
+#. Text in function
+#: scormcloud.catalogwidget.php:1
+msgid "Click to launch course "
+msgstr "Cliquez pour lancer le module "
+
+#. Text in function
+#: scormcloud_startpage.php:1
+#: scormcloud_manage_training.php:39
+#: scormcloud_training_details.php:34
+msgid "Click to toggle"
+msgstr "Cliquez pour basculer"
+
+#. Text in function
+#: scormcloud_manage_training.php:217
+msgid "Click to view details of this invitation."
+msgstr "Cliquez pour voir les détails de cette invitation"
+
+#. Text in echo
+#: scormcloud_settings.php:100
+msgid "Cloud Engine URL: "
+msgstr "Cloud Engine URL: "
+
+#. Text in function
+#: scormcloud.widget.php:1
+#: scormcloud.catalogwidget.php:1
+#: scormcloud_training_details.php:337
+#: scormcloud_makeBlogEntry.php:1
+msgid "Completion"
+msgstr "Progression"
+
+#. Text in echo
+#: scormcloud_manage_courses.php:43
+#: scormcloud_manage_training.php:217
+msgid "Course Title"
+msgstr "Titre du module"
+
+#. Text in echo
+#: scormcloud_manage_training.php:99
+msgid "Create Training"
+msgstr "Créer une formation"
+
+#. Text in function
+#: scormcloud_manage_training.php:217
+msgid "Create/Publish Date"
+msgstr "Date de création/publication"
+
+#. Text in echo
+#: scormcloud_manage_training.php:183
+msgid "Creating Trainings..."
+msgstr "Créations des formations..."
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "Data current as of"
+msgstr ""
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "Data current as of "
+msgstr ""
+
+#. Text in function
+#: scormcloud_manage_courses.php:45
+msgid "Delete Course"
+msgstr "Supprimer le module"
+
+#. Text in echo
+#: embedTraining.php:79
+msgid "Duration: 10 minutes"
+msgstr "Durée : 10 minutes"
+
+#. Text in function
+#: scormcloud_manage_courses.php:45
+msgid "Edit Course Properties"
+msgstr "Modifier les propriétés du module"
+
+#. Text in echo
+#: embedTraining.php:69
+msgid "Embed This Training"
+msgstr "Embarquer cette formation"
+
+#. Text in function
+#: uploadpif.php:1
+msgid "Filename:"
+msgstr "Nom du fichier :"
+
+#. Text in echo
+#: embedTraining.php:28
+msgid "First select a course"
+msgstr "Tout d'abord, sélectionnez un module"
+
+#. Text in echo
+#: scormcloud_training_details.php:16
+msgid "Go back to all trainings"
+msgstr "Retournez à toutes les formations"
+
+#. Text in function
+#: scormcloud.catalogwidget.php:1
+msgid "If you have taken a course before, your most recent results will display by clicking 'show details' and your most recent training will launch by clicking the course title."
+msgstr "Si vous n'avez pas suivi de module auparavant, vos plus récents résultats seront affichés en cliquant sur 'voir les détails' et votre plus récente formation se lancera en cliquant sur le titre du module."
+
+#. Text in echo
+#: scormcloud_settings.php:96
+msgid "If you need an account on SCORM Cloud, "
+msgstr "Si vous avez besoin d'un compte SCORM Cloud, "
+
+#. Text in function
+#: scormcloud_manage_courses.php:94
+msgid "Import a new course."
+msgstr "Importer un nouveau module"
+
+#. Text in function
+#: uploadpif.php:1
+msgid "Importing Package......"
+msgstr "Import du package en cours..."
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "Inactive"
+msgstr "Inactif"
+
+#. Text in function
+#: scormcloud_settings.php:1
+msgid "Invalid Credentials.  Check your App Id and Secret Key and try again."
+msgstr "Identifiants invalides. Vérifiez votre App Id et la clé secrète (Secret Key) et réessayez."
+
+#. Text in function
+#: scormcloud_settings.php:1
+msgid "Invalid Service Url.  Check your URL and try again or clear out the bad URL and the default URL will be used."
+msgstr "'Service Url' invalide. Vérifiez votre URL et réessayer ou effacer la mauvaise URL et l'URL par défaut sera utilisée."
+
+#. Text in function
+#: scormcloud_settings.php:1
+msgid "Invalid Service Url.  Check your URL click 'Update Options' or clear out the bad URL and the default URL will be used."
+msgstr "'Service Url' invalide. Vérifiez votre URL et cliquez sur 'Mettre à jour les options' ou effacer la mauvaise URL et l'URL par défaut sera utilisée."
+
+#. Text in echo
+#: scormcloud_training_details.php:34
+msgid "Invitation Details"
+msgstr "Détails de l'invitation"
+
+#. Text in echo
+#: embedTraining.php:52
+#: embedTraining.php:74
+msgid "Launch Training Now"
+msgstr "Lancer la formation"
+
+#. Text in function
+#: scormcloud_manage_courses.php:45
+msgid "Learner"
+msgstr "Apprenant"
+
+#. Text in function
+#: scormcloud_manage_courses.php:45
+#: scormcloud_manage_training.php:217
+msgid "Learners"
+msgstr "Apprenants"
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "Loading All Courses..."
+msgstr "Chargement de tous les modules..."
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "Loading All Learners..."
+msgstr "Chargement de tous les apprenants..."
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "Loading Summary..."
+msgstr "Chargement du résumé..."
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "Loading Training Summary..."
+msgstr "Chargement du résumé de la formation..."
+
+#. Text in function
+#: scormcloud.widget.php:1
+msgid "Log in"
+msgstr "Se connecter"
+
+#. Text in echo
+#: embedTraining.php:82
+msgid "My name is"
+msgstr "Mon nom est"
+
+#. Text in echo
+#: embedTraining.php:48
+msgid "Next select some options"
+msgstr "Ensuite sélectionnez quelques options"
+
+#. Text in function
+#: scormcloud.widget.php:1
+msgid "Not Started"
+msgstr "Non commencé"
+
+#. Text in function
+#: scormcloud_startpage.php:1
+#: scormcloud_settings.php:96
+msgid "Open the SCORM Cloud Site in a new window."
+msgstr "Ouvre le site de SCORM Cloud dans une nouvelle fenêtre"
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "Open the SCORM Reportage Console in a new window."
+msgstr "Ouvre la console 'SCORM Reportage' dans une nouvelle fenêtre"
+
+#. Text in function
+#: scormcloud_settings.php:1
+msgid "Options saved."
+msgstr "Options sauvegardées."
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "Overall Reportage Summary"
+msgstr ""
+
+#. Text in function
+#: scormcloud_manage_training.php:217
+msgid "Please configure your SCORM Cloud settings to add registrations."
+msgstr "S'il vous plait, configurez les réglages SCORM Cloud pour ajouter des inscriptions."
+
+#. Text in function
+#: embedTraining.php:167
+msgid "Please configure your SCORM Cloud settings to add training to your posts."
+msgstr "S'il vous plait, configurez les réglages SCORM Cloud pour ajouter des formations à vos articles."
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "Please configure your SCORM Cloud settings to see training results."
+msgstr "S'il vous plait, configurez les réglages SCORM Cloud pour consulter les résultats de formation."
+
+#. Text in function
+#: scormcloud_manage_courses.php:94
+msgid "Please configure your SCORM Cloud settings to view your courses."
+msgstr "S'il vous plait, configurez les réglages SCORM Cloud pour consulter les modules."
+
+#. Text in function
+#: scormcloud_settings.php:1
+msgid "Please fill in your SCORM Cloud credentials and click 'Update Options'."
+msgstr "S'il vous plait, renseignez les identifiants SCORM Cloud et cliquez sur 'Mettre à jour les options'."
+
+#. Text in function
+#: scormcloud_makeBlogEntry.php:1
+msgid "Please log in to take this training."
+msgstr "Connectez-vous pour suivre cette formation."
+
+#. Text in echo
+#: scormcloud_manage_training.php:159
+msgid "Please select a course."
+msgstr "Sélectionnez un module."
+
+#. Text in echo
+#: scormcloud_manage_training.php:165
+msgid "Please select learners."
+msgstr "Sélectionnez des apprenants."
+
+#. Text in function
+#: scormcloud_manage_training.php:217
+msgid "Post Title"
+msgstr "Titre de l'article"
+
+#. Text in function
+#: scormcloud_manage_courses.php:45
+msgid "Preview"
+msgstr "Prévisualisation"
+
+#. Text in function
+#: importcallback.php:1
+msgid "Processing Import...."
+msgstr "Import en cours..."
+
+#. Text in echo
+#: scormcloud_manage_training.php:39
+msgid "Quick Create Training"
+msgstr "Créer une formation rapidement"
+
+#. Text in function
+#: scormcloud_makeBlogEntry.php:1
+msgid "Relaunch Training"
+msgstr "Poursuivre la formation"
+
+#. Text in echo
+#: embedTraining.php:59
+#: scormcloud_training_details.php:51
+msgid "Require that learners be authenticated users."
+msgstr "Nécessite que les apprenants soient des utilisateurs authentifiés."
+
+#. Text in function
+#: scormcloud_settings.php:94
+msgid "Rustici Software SCORM Cloud Settings"
+msgstr ""
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "SCORM Cloud Account Management"
+msgstr "Gestion du compte SCORM Cloud"
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "SCORM Cloud Reportage"
+msgstr ""
+
+#. Text in echo
+#: scormcloud_manage_training.php:25
+msgid "SCORM Cloud Training"
+msgstr ""
+
+#. Text in echo
+#: scormcloud_manage_training.php:215
+msgid "SCORM Cloud Training History"
+msgstr ""
+
+#. Text in function
+#: scormcloud_startpage.php:1
+msgid "SCORM Cloud for Wordpress"
+msgstr "SCORM Cloud pour Wordpress"
+
+#. Text in echo
+#: scormcloud_settings.php:108
+msgid "SCORM Player Stylesheet Url: "
+msgstr ""
+
+#. Text in function
+#: scormcloud.widget.php:1
+#: scormcloud_training_details.php:337
+#: scormcloud_makeBlogEntry.php:1
+msgid "Score"
+msgstr "Score"
+
+#. Text in function
+#: scormcloud.catalogwidget.php:1
+msgid "Scorm Cloud Catalog Widget"
+msgstr "Catalogue des widgets Scorm Cloud"
+
+#. Text in function
+#: scormcloud.widget.php:1
+msgid "Scorm Cloud User Training Widget"
+msgstr ""
+
+#. Text in echo
+#: scormcloud_settings.php:104
+msgid "Secret Key: "
+msgstr "Clé secrète : "
+
+#. Text in echo
+#: scormcloud_manage_training.php:84
+msgid "Select Role(s)"
+msgstr "Sélectionnez un ou plusieurs rôle(s)"
+
+#. Text in echo
+#: scormcloud_manage_training.php:67
+msgid "Select User(s)"
+msgstr "Sélectionnez un ou plusieurs utilisateur(s)"
+
+#. Text in echo
+#: scormcloud_manage_training.php:44
+msgid "Select a course:"
+msgstr "Sélectionnez un module :"
+
+#. Text in echo
+#: scormcloud_manage_training.php:60
+msgid "Select learner(s):"
+msgstr "Sélectionnez un ou plusieurs apprenant(s) :"
+
+#. Text in echo
+#: embedTraining.php:62
+#: scormcloud_training_details.php:54
+msgid "Show the course title and description."
+msgstr "Voir le titre du module et sa description"
+
+#. Text in echo
+#: embedTraining.php:85
+#: scormcloud_training_details.php:80
+msgid "Start Training"
+msgstr "Débuter la formation"
+
+#. Text in function
+#: uploadpif.php:1
+msgid "Submit"
+msgstr "Envoyer"
+
+#. Text in function
+#: scormcloud.widget.php:1
+#: scormcloud_training_details.php:337
+#: scormcloud_makeBlogEntry.php:1
+msgid "Success"
+msgstr "Succès"
+
+#. Text in echo
+#: scormcloud_settings.php:95
+msgid "The following settings require the credentials provided when you signed up for your SCORM Cloud account.  They can also be found by going to your Apps page in the SCORM Cloud site."
+msgstr ""
+
+#. Text in function
+#: scormcloud_manage_training.php:217
+msgid "The maximum number of registrations for this account has been reached.  Visit the <a href='https://cloud.scorm.com'>SCORM Cloud site</a> to upgrade your account."
+msgstr "Le nombre maximum d'enregistrements pour ce compte a été atteint. Visitez le <a href='https://cloud.scorm.com'>site SCORM Cloud</a> pour mettre à niveau votre compte."
+
+#. Text in function
+#: importcallback.php:1
+msgid "There was an error uploading your package. Please try again."
+msgstr "Erreur lors du chargement de votre package. Veuillez réessayer."
+
+#. Text in function
+#: scormcloud.widget.php:1
+#: scormcloud.catalogwidget.php:1
+msgid "This course is currently inactive."
+msgstr "Ce module est actuellement inactif"
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "This training is currently"
+msgstr "Cette formation est actuellement"
+
+#. Text in function
+#: scormcloud_makeBlogEntry.php:1
+msgid "This training is not currently active."
+msgstr "Cette formation n'est pas active."
+
+#. Text in echo
+#: embedTraining.php:78
+msgid "This will be the metadata description for your course (if it exists).  Also, the displayed duration will render if it exists in the metadata."
+msgstr ""
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "Time"
+msgstr "Temps"
+
+#. Text in echo
+#: embedTraining.php:112
+msgid "Title"
+msgstr "Titre"
+
+#. Text in function
+#: scormcloud.widget.php:1
+msgid "Title:"
+msgstr "Titre :"
+
+#. Text in function
+#: scormcloud.catalogwidget.php:1
+msgid "To launch a course, you must provide a name and email address.  This will allow your training results to be tracked."
+msgstr "Pour lancer un module, vous devez fournir un nom et une adresse email. Cela permettra de suivre vos résultats de formation."
+
+#. Text in function
+#: scormcloud_makeBlogEntry.php:1
+msgid "Total Time"
+msgstr "Temps total"
+
+#. Text in echo
+#: embedTraining.php:55
+msgid "Training Description"
+msgstr "Description de la formation"
+
+#. Text in echo
+#: scormcloud_training_details.php:47
+msgid "Training Description:"
+msgstr "Description de la formation :"
+
+#. Text in function
+#: scormcloud_training_details.php:18
+msgid "Training Details for"
+msgstr "Détails de la formation pour"
+
+#. Text in echo
+#: embedTraining.php:51
+msgid "Training Header Text"
+msgstr "Texte d'introduction de la formation"
+
+#. Text in echo
+#: scormcloud_training_details.php:43
+msgid "Training Header Text:"
+msgstr "Texte d'introduction de la formation :"
+
+#. Text in echo
+#: scormcloud_training_details.php:208
+msgid "Training History"
+msgstr "Historique de la formation"
+
+#. Text in echo
+#: scormcloud_training_details.php:154
+msgid "Training Summary"
+msgstr "Résumé de la formation"
+
+#. Text in echo
+#: scormcloud_settings.php:115
+msgid "Update Settings"
+msgstr "Mettre à jour les réglages"
+
+#. Text in echo
+#: scormcloud_training_details.php:59
+msgid "Update This Training"
+msgstr "Mettre à jour cette formation"
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "User"
+msgstr "Utilisateur"
+
+#. Text in echo
+#: scormcloud_training_details.php:208
+msgid "View All Learners in Reportage"
+msgstr ""
+
+#. Text in function
+#: scormcloud_manage_courses.php:45
+msgid "View Course Report"
+msgstr "Voir le rapport du module"
+
+#. Text in echo
+#: scormcloud_training_details.php:154
+msgid "View Full Results Report"
+msgstr "Voir le rapport complet des résultats"
+
+#. Text in function
+#: scormcloud.catalogwidget.php:1
+msgid "Widget for displaying SCORM Cloud Catalog to users."
+msgstr "Widget pour afficher le catalogue SCORM Cloud aux utilisateurs."
+
+#. Text in function
+#: scormcloud.widget.php:1
+msgid "Widget for displaying SCORM registrations to users."
+msgstr ""
+
+#. Text in function
+#: scormcloud.widget.php:1
+msgid "You have not taken any training."
+msgstr "Vous n'avez pas choisi de formation."
+
+#. Text in echo
+#: embedTraining.php:84
+msgid "and my email is"
+msgstr "et mon email est"
+
+#. Text in echo
+#: scormcloud_settings.php:96
+msgid "click here to go there now"
+msgstr ""
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "click to activate"
+msgstr "cliquez pour activer"
+
+#. Text in function
+#: scormcloud_training_details.php:337
+msgid "click to deactivate"
+msgstr "cliquez pour désactiver"
+
+#. Text in function
+#: scormcloud.catalogwidget.php:1
+msgid "hide details"
+msgstr "cacher les détails"
+
+#. Text in function
+#: scormcloud.catalogwidget.php:1
+msgid "hide info"
+msgstr "cacher l'information"
+
+#. Text in echo
+#: embedTraining.php:71
+msgid "hide preview"
+msgstr "cacher la prévisualisation"
+
+#. Text in function
+#: scormcloud.catalogwidget.php:1
+msgid "more info"
+msgstr "plus d'informations"
+
+#. Text in function
+#: scormcloud.widget.php:1
+msgid "sec spent in course"
+msgstr "secondes passées sur le module"
+
+#. Text in function
+#: scormcloud_makeBlogEntry.php:1
+msgid "secs"
+msgstr "secondes"
+
+#. Text in function
+#: scormcloud.widget.php:1
+#: scormcloud.catalogwidget.php:1
+msgid "show details"
+msgstr "voir les détails"
+
+#. Text in echo
+#: embedTraining.php:71
+msgid "show preview"
+msgstr "voir la prévisualisation"
+
+#. Text in function
+#: scormcloud.widget.php:1
+msgid "to see your training history"
+msgstr "pour voir l'historique de votre formation"
