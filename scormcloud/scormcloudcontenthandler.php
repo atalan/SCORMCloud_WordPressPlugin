@@ -119,7 +119,7 @@ class ScormCloudContentHandler {
 							               '</tr><tr>' .
 							               "<td class='$completion'>" . $completion . '</td>' .
 							               "<td class='$success'>" . $success . '</td>' .
-							               "<td class='' . ( $score === 'unknown' ? __( 'unknown' ) : '' ) . ''>" . ( 'unknown' === $score ? '-' : $score . '%' ) . '</td>' .
+							               "<td class=" . ( $score === 'unknown' ? __( 'unknown' ) : '' ) . '">' . ( 'unknown' === $score ? '-' : $score . '%' ) . '</td>' .
 							                '<td class="time">' . floor( $seconds / 60 ) . 'min ' . ( $seconds % 60 ) . __( 'sec spent in course', 'scormcloud' ) . '</td>' .
 							               '</tr></table>';
 
